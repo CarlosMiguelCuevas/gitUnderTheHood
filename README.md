@@ -15,3 +15,7 @@ Colaborators aknoldlege
 ============
 *greetings to everione
 
+Issues Polici
+======
+*does and dont's
+
