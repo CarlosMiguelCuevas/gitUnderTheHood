@@ -9,6 +9,6 @@ Colaborator Gide
 
 Code Gide
 ==========
-*follow the goood oractices writen here (link)http:/www.goodpractices.com
+*follow the goood oractices writen here www.goodpractices.com
 
 
