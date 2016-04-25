@@ -11,4 +11,7 @@ Code Gide
 ==========
 *follow the goood oractices writen here www.goodpractices.com
 
+Colaborators aknoldlege
+============
+*greetings to everione
 
